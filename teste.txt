@@ -1,0 +1,10 @@
+ O volume na unidade E ‚ Storage1
+ O N£mero de S‚rie do Volume ‚ 5601-FD56
+
+ Pasta de E:\Users\Sergio\OneDrive\git\lala
+
+25/01/2021  10:05    <DIR>          .
+25/01/2021  10:05    <DIR>          ..
+25/01/2021  10:05                 0 teste.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   270.759.919.616 bytes dispon¡veis
